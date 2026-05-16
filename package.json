@@ -5,17 +5,16 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@vitejs/plugin-react": "^4.3.4",
     "bootstrap": "latest",
     "jspdf": "latest",
     "jspdf-autotable": "latest",
     "react": "latest",
     "react-dom": "latest",
     "react-router-dom": "latest",
-    "vite": "^5.4.11",
     "xlsx": "latest"
   },
   "devDependencies": {
-    "playwright": "^1.60.0"
+    "@vitejs/plugin-react": "^4.3.4",
+    "vite": "^5.4.11"
   }
 }
